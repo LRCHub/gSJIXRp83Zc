@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "割愛",
+  "base_artist": "奔走狂走局",
+  "createdAt": "2026-01-13T06:24:59.192843Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "割愛",
+      "artist": "Wanfang",
+      "has_synced": false,
+      "path": "select/01_割愛_Wanfang.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "割愛",
+      "artist": "萬芳",
+      "has_synced": true,
+      "path": "select/02_割愛_萬芳.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "割愛",
+      "artist": "萬芳",
+      "has_synced": true,
+      "path": "select/03_割愛_萬芳.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "割愛",
+      "artist": "Wanfang",
+      "has_synced": true,
+      "path": "select/04_割愛_Wanfang.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "割愛",
+      "artist": "万芳",
+      "has_synced": true,
+      "path": "select/05_割愛_万芳.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "割愛",
+      "artist": "奔走狂走局",
+      "has_synced": false,
+      "path": "select/pl_01_割愛_奔走狂走局.txt"
+    }
+  ]
+}
